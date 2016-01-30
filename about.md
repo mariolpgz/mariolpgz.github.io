@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a 2nd year grad student in statistics at the University of Texas in Arlington. I also work for GM Financial in Risk Management as Credit Risk Analyst.
+I'm a 2nd year grad student in statistics at the University of Texas in Arlington. I also work for GM Financial in Risk Management as a Credit Risk Analyst.
 
 ### More Information
 
